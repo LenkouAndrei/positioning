@@ -1,0 +1,6 @@
+.wrapper #avatar{
+	behavior: url(./PIE.htc);
+}
+.helper{
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#88343434', endColorstr='#88343434');
+}
